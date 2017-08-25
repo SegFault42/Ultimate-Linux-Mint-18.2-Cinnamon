@@ -11,21 +11,19 @@ set -e
 #
 ##################################################################################################################
 
+sudo apt-get -y update
+sudo apt-get -y upgrade
+
 #software from 'normal' repositories
-sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox evolution focuswriter geany geary gimp gpick
-sudo apt-get install -y glances gparted grsync hardinfo inkscape meld
-sudo apt-get install -y openshot pinta plank ppa-purge radiotray screenruler screenfetch scrot shutter slurm synapse
-sudo apt-get install -y thunar vlc vnstat   
+sudo apt-get install -y curl gparted vlc build-essential terminator
+sudo apt-get install -y zsh vim clang git qbittorrent
+sudo apt-get install -y curl filezilla htop
 
-
-#operating specific software
-
-# sudo apt-get install nemo-compare -y
 
 ###############################################################################################
 
 # installation of zippers and unzippers
-sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
+sudo apt-get install -y unrar unzip
 
 ###############################################################################################
 
