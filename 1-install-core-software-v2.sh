@@ -17,7 +17,7 @@ sudo apt-get -y upgrade
 #software from 'normal' repositories
 sudo apt-get install -y curl gparted vlc build-essential terminator
 sudo apt-get install -y zsh vim clang git qbittorrent
-sudo apt-get install -y curl filezilla htop
+sudo apt-get install -y curl filezilla htop thunar
 
 
 ###############################################################################################
