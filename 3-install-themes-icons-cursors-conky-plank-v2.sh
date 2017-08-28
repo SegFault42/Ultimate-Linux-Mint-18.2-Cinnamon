@@ -70,8 +70,6 @@ sh theme-mint-y-colora-collection-3.4-v1.sh
 sudo apt-get install -y breeze-cursor-theme
 
 
-
-
 echo "################################################################"
 echo "#############       eye candy software         #################"
 echo "################################################################"
