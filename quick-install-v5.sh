@@ -74,7 +74,7 @@ sh 4-install-distro-specific-software.sh
 #*install-ubuntu-cleaner-v1.sh
 #*sh install-ukuu-v1.sh
 ##sh install-variety-v1.sh
-sh install-virtual-box-v2.sh
+#sh install-virtual-box-v2.sh
 #*sh install-visual-studio-code-v1.sh
 ##sh install-vivaldi-v2.sh
 #*sh install-wire-v1.sh
